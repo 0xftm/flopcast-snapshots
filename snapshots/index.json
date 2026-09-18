@@ -7,10 +7,24 @@
     "date": "2026-09-16"
   },
   {
+    "room": "mb-flopcast",
+    "file": "mb-flopcast-2026-09-18-8.jsonl",
+    "lastSeq": 8,
+    "sha256": "e70f075f0f15dfdbbf1ee413ffe8e7f36f7a76e8afa673bd64097fb0c8e523fa",
+    "date": "2026-09-18"
+  },
+  {
     "room": "mb-flopcast-dispute",
     "file": "mb-flopcast-dispute-2026-09-16-0.jsonl",
     "lastSeq": 0,
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "date": "2026-09-16"
+  },
+  {
+    "room": "mb-flopcast-dispute",
+    "file": "mb-flopcast-dispute-2026-09-18-0.jsonl",
+    "lastSeq": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "date": "2026-09-18"
   }
 ]
